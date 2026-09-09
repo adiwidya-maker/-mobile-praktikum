@@ -1,25 +1,16 @@
-# aplikasi_pertama
+# Aplikasi Pertama - Mobile Praktikum
 
-A new Flutter project.
+## Tujuan Aplikasi
+Aplikasi ini dikembangkan sebagai proyek praktikum Pemrograman Mobile untuk mempelajari dasar-dasar pengembangan aplikasi Android menggunakan framework Flutter dan integrasi version control menggunakan Git & GitHub.
 
-## Getting Started
+## Rencana Fitur Utama
+1. **Autentikasi Pengguna:** Halaman login dan registrasi akun.
+2. **Dashboard Utama:** Menampilkan antarmuka navigasi dan daftar fitur aplikasi.
+3. **Manajemen Profil:** Halaman pengaturan dan informasi detail pengguna.
 
-This project is a starting point for a Flutter application.
+## Cara Menjalankan Aplikasi
+Pastikan Flutter SDK, Android SDK, dan perangkat Android (fisik/emulator) sudah dikonfigurasi dengan benar. Jalankan perintah berikut pada terminal:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-# Proyek Pemrograman Mobile
-## Deskripsi
-Aplikasi latihan untuk pemrograman aplikasi mobile menggunakan Flutter.
-## Pengembang
-Nama panggilan / akun GitHub: adiwidya-maker
-## Status
-Proyek awal perkuliahan.
+1. Unduh seluruh dependensi proyek:
+   ```bash
+   flutter pub get
